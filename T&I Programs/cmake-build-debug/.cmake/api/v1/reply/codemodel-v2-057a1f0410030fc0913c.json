@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "T_I_Programs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Circle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Circle-Debug-ecacd07b87c962ffaa28.json",
+					"name" : "Circle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FileHandling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileHandling-Debug-1355d46937e2625bcc40.json",
+					"name" : "FileHandling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GrossSalary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GrossSalary-Debug-ef0d96fea7cfe3428517.json",
+					"name" : "GrossSalary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sort-Debug-d2ddb1c2b32464876631.json",
+					"name" : "Sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StudentRecord::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StudentRecord-Debug-37b2cf7eb80795de6959.json",
+					"name" : "StudentRecord",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Triangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Triangle-Debug-744f64a81c8497e9e18b.json",
+					"name" : "Triangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ValidIdentifier::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ValidIdentifier-Debug-64fd4f052935a80c057e.json",
+					"name" : "ValidIdentifier",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ValidTriangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ValidTriangle-Debug-21da40d89b136dbc74ca.json",
+					"name" : "ValidTriangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "student::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-student-Debug-514170dabb6f9a7f0d4d.json",
+					"name" : "student",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Projects/Training&Incubation/T&I Programs/cmake-build-debug",
+		"source" : "C:/Projects/Training&Incubation/T&I Programs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

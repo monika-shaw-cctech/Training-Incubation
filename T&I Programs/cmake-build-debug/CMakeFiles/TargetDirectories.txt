@@ -1,0 +1,11 @@
+C:/Projects/Training&Incubation/T&I Programs/cmake-build-debug/CMakeFiles/GrossSalary.dir
+C:/Projects/Training&Incubation/T&I Programs/cmake-build-debug/CMakeFiles/ValidIdentifier.dir
+C:/Projects/Training&Incubation/T&I Programs/cmake-build-debug/CMakeFiles/ValidTriangle.dir
+C:/Projects/Training&Incubation/T&I Programs/cmake-build-debug/CMakeFiles/Circle.dir
+C:/Projects/Training&Incubation/T&I Programs/cmake-build-debug/CMakeFiles/Triangle.dir
+C:/Projects/Training&Incubation/T&I Programs/cmake-build-debug/CMakeFiles/Sort.dir
+C:/Projects/Training&Incubation/T&I Programs/cmake-build-debug/CMakeFiles/student.dir
+C:/Projects/Training&Incubation/T&I Programs/cmake-build-debug/CMakeFiles/FileHandling.dir
+C:/Projects/Training&Incubation/T&I Programs/cmake-build-debug/CMakeFiles/StudentRecord.dir
+C:/Projects/Training&Incubation/T&I Programs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/Training&Incubation/T&I Programs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

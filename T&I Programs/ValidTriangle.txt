@@ -1,0 +1,12 @@
+Test Data :
+Check if user input is working (angles)
+Check if the sum of angles is calculated.
+Check the output showing or not.
+
+
+Test Cases :
+Check the output data of Valid triangle if one angle is 0.
+Check the output data of Valid triangle if sum of angles is 180.
+Check the output data of Valid triangle if sum of angles is not 180.
+
+

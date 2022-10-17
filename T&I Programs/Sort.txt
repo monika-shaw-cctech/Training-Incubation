@@ -1,0 +1,8 @@
+Test cases :
+Check if input is string
+Check if output is correct or not
+Check if uppercase and lowercase are alphabatically sorted according to ascii
+
+Test Data :
+ anmol ankit monika khagesh
+ anmol Ankit monika Khagesh

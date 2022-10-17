@@ -1,0 +1,12 @@
+Test Data :
+Check if user input is working (center points, radius, points(x,y))
+Check if the distance is calculated.
+Check the output showing or not.
+
+
+Test Cases :
+Check the output data of Distance with (radius >distance).
+Check the output data of Distance with (radius <distance).
+Check the output data of Distance with (radius =distance).
+
+

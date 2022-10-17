@@ -1,0 +1,13 @@
+Test Scenario :
+
+Check if the currency converter functionality.
+
+Test Cases :
+
+Check if the input field accepts numbers only
+Check if the input is positive
+Check if the input field accepts symbols.
+Check if the formula for conversion.
+Check if the initial currency and outcome currency is not same.
+
+

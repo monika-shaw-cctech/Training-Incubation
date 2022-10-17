@@ -1,0 +1,19 @@
+
+Users story :
+
+Title : Currency Converter
+
+1. As a user, I should be able to interact with the ui, so that I can select the  inital currency type and currency value.
+
+
+2. As a User, I should be able to Select the Initial Currency, so that I convert it to desierd output.
+
+Acceptance creteria :
+Input field shoould be number
+not exceed than 2 decimal places
+
+3. As a user, I should be able to select the outcome currency, so that I can get a converted currency as 
+a result
+
+
+

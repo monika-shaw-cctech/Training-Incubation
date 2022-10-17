@@ -1,0 +1,9 @@
+Test Data :
+Check if user input is working (name, address, contact, BA)
+Check if the gross salary is calculated.
+Check the output showing or not.
+
+
+Test Cases :
+Check the calculation of gross salary.
+
