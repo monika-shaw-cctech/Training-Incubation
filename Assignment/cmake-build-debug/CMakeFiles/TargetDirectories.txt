@@ -1,0 +1,15 @@
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/Assignment.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/Odd.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/Positive.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/Negative.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/Prime.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/Divisible.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/Power.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/Factorial.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/Natural.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/NEven.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/NOdd.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/Even.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/Febonacci.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/Training&Incubation/Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

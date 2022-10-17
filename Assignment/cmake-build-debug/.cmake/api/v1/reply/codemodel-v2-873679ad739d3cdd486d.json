@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Assignment",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Assignment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Assignment-Debug-08b257800efd81ecf05e.json",
+					"name" : "Assignment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Divisible::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Divisible-Debug-c718b327ca24191a946b.json",
+					"name" : "Divisible",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Even::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Even-Debug-019275ddb6857856afc5.json",
+					"name" : "Even",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Factorial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Factorial-Debug-fd43edc6751d04764954.json",
+					"name" : "Factorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Febonacci::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Febonacci-Debug-35a6969c73e52c16c89f.json",
+					"name" : "Febonacci",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NEven::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NEven-Debug-591b078bcffb175f85a3.json",
+					"name" : "NEven",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NOdd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NOdd-Debug-2a44245ac6111186d555.json",
+					"name" : "NOdd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Natural::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Natural-Debug-78a1e6c74e75451ae4ee.json",
+					"name" : "Natural",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Negative::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Negative-Debug-68abdd6367ead43f0283.json",
+					"name" : "Negative",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Odd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Odd-Debug-6a3cbe5023037ee45b9b.json",
+					"name" : "Odd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Positive::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Positive-Debug-94bf3a5a2261db7f9ea6.json",
+					"name" : "Positive",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Power::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Power-Debug-41f9d5b2f7e85d9bedc1.json",
+					"name" : "Power",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Prime::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Prime-Debug-12702c9c97363a06f44c.json",
+					"name" : "Prime",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Projects/Training&Incubation/Assignment/cmake-build-debug",
+		"source" : "C:/Projects/Training&Incubation/Assignment"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

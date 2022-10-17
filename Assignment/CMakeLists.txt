@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.23)
+project(Assignment)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(Assignment main.cpp)
+add_executable(Odd Odd.cpp)
+add_executable(Positive Positive.cpp)
+add_executable(Negative Negative.cpp)
+add_executable(Prime Prime.cpp)
+add_executable(Divisible Divisible.cpp)
+add_executable(Power Power.cpp)
+add_executable(Factorial Factorial.cpp)
+add_executable(Natural Natural.cpp)
+add_executable(NEven NEven.cpp)
+add_executable(NOdd NOdd.cpp)
+add_executable(Even Even.cpp)
+add_executable(Febonacci Febonacci.cpp)
