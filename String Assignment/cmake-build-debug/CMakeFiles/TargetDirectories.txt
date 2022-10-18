@@ -1,0 +1,15 @@
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/String_Assignment.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/StringLength.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/Reverse.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/Position1.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/Position2.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/Alphabetic.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/AlphaNumeric.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/Digits.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/Alternate.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/Vowels.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/UpperCase.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/LowerCase.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/StringTruncate.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/Training&Incubation/String Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

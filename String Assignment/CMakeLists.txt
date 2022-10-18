@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.23)
+project(String_Assignment)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(String_Assignment main.cpp)
+add_executable(StringLength StringLength.cpp)
+add_executable(Reverse Reverse.cpp)
+add_executable(Position1 Position1.cpp)
+add_executable(Position2 Position2.cpp)
+add_executable(Alphabetic Alphabetic.cpp)
+add_executable(AlphaNumeric AlphaNumeric.cpp)
+add_executable(Digits Digits.cpp)
+add_executable(Alternate Alternate.cpp)
+add_executable(Vowels Vowels.cpp)
+add_executable(UpperCase UpperCase.cpp)
+add_executable(LowerCase LowerCase.cpp)
+add_executable(StringTruncate StringTruncate.cpp)
