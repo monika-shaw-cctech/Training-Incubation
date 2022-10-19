@@ -13,7 +13,7 @@
 void  stringTruncate( int pos, int len,  char* str1)
 {
     std::vector<char> str2;
-    for ( size_t i = pos; i <= len; i++)
+    for ( size_t i = pos; i < len+pos; i++)
     {
             str2.push_back(str1[i]);
     }
