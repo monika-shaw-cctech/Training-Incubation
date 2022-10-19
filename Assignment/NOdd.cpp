@@ -9,12 +9,12 @@
 
 void odd( size_t *num)
 {
+    std::cout << "First " << *num << " odd numbers are : ";
     for (int i = 1; i <= *num; i++)
     {
-        if (i % 2 == 1)
-            std::cout<<i<<" ";
+        std::cout << 2 * i - 1 << " ";
     }
-
+    std::cout << std::endl;
 }
 
 int main()

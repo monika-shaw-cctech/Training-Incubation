@@ -9,11 +9,12 @@
 
 void even( size_t *num)
 {
+    std::cout << "First " << *num << " even numbers are : ";
     for (size_t i = 1; i <= *num; i++)
     {
-        if ( i % 2 == 0)
-        std::cout << i << " ";
+            std::cout << 2 * i << " ";
     }
+    std::cout << std::endl;
 }
 
 int main()
