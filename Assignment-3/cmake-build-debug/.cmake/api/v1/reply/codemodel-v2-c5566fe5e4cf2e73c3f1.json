@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Assignment_3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AddOne::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AddOne-Debug-305f74d91df66903d12b.json",
+					"name" : "AddOne",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Assignment_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Assignment_3-Debug-6f3f924755bb51f3db72.json",
+					"name" : "Assignment_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Circle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Circle-Debug-7bfcf625ea31c8cb7887.json",
+					"name" : "Circle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Compare::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Compare-Debug-a048e709092aa242842c.json",
+					"name" : "Compare",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Divisible::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Divisible-Debug-d003a2a747bddf50a54d.json",
+					"name" : "Divisible",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Largest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Largest-Debug-7d0be19fab1a927f4cb8.json",
+					"name" : "Largest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Multiply::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Multiply-Debug-644e08564b7e7addd030.json",
+					"name" : "Multiply",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProfitLoss::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProfitLoss-Debug-72cc4c04a58d4ca4c4c7.json",
+					"name" : "ProfitLoss",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Reverse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Reverse-Debug-5de9597f8cd646413738.json",
+					"name" : "Reverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Set::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Set-Debug-978669c5b8895fed8c6d.json",
+					"name" : "Set",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Smallest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Smallest-Debug-59a3e245fa36a3630dcc.json",
+					"name" : "Smallest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sum-Debug-6a8f6699e91a7ac0eef5.json",
+					"name" : "Sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SumFirstLast::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SumFirstLast-Debug-a59787bc76408fac74b6.json",
+					"name" : "SumFirstLast",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Projects/Training&Incubation/Assignment-3/cmake-build-debug",
+		"source" : "C:/Projects/Training&Incubation/Assignment-3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

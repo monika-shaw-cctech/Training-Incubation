@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.23)
+project(Assignment_3)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(Assignment_3 main.cpp)
+add_executable(Sum Sum.cpp)
+add_executable(Reverse Reverse.cpp)
+add_executable(Compare Compare.cpp)
+add_executable(SumFirstLast SumFirstLast.cpp)
+add_executable(AddOne AddOne.cpp)
+add_executable(Largest Largest.cpp)
+add_executable(Smallest Smallest.cpp)
+add_executable(Multiply Multiply.cpp)
+add_executable(Divisible Divisible.cpp)
+add_executable(Set Set.cpp)
+add_executable(Circle Circle.cpp)
+add_executable(ProfitLoss ProfitLoss.cpp)
