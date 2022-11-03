@@ -7,6 +7,17 @@
  Arrange the circles in increasing order of their area and print all the data of each circle
  */
 
+/*
+ * which data structure I choose and why ?
+ * I choose pair which comes under Standard Template Library(STL) and defined in utility header file.
+ * I choose this because it is used to combine two values that may be of same or different data types.
+ * We are using coordinates which is consists two values as a single entity. Pair provides a way to
+ * store two heterogeneous objects as a single unit. Pair is just for grouping together exactly 2
+ * objects (say, "coordinates on a page" consists of X and Y)
+ * It is a simple sequence of paired Xs and Ys. They remain in the order you put it in, and can hold
+ * any number of duplicates.
+ */
+
 #include <algorithm>
 #include <cstdlib>
 #include <iostream>
