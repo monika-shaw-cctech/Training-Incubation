@@ -19,24 +19,8 @@ int findLength(int number)
 
 int AddOne(int number)
 {
-    int temp = 0, rem;
-    while (number > 0)
-    {
-        rem = number % 10;
-        rem++;
-        temp = temp * 10 + rem;
-        number = number / 10;
-    }
-
-    number = temp;
-    temp = 0;
-    while (number > 0)
-    {
-        rem = number % 10;
-        temp = temp * 10 + rem;
-        number = number / 10;
-    }
-    return temp;
+    const int Base = 10;
+    return ( number % Base + 1 ) % Base + ( number / Base == 0 ? 0 : Base * AddOne( number / Base ) );
 }
 
 int main()
